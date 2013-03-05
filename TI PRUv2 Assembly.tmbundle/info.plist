@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>puevfzvpnyv@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Chris Micali</string>
+	<key>description</key>
+	<string>Syntax highlighting for TI PRUv2 assembly.</string>
+	<key>name</key>
+	<string>TI PRUv2 Assembly</string>
+	<key>uuid</key>
+	<string>57AC99C6-876A-44DF-A4F3-422FA159F90D</string>
+</dict>
+</plist>
