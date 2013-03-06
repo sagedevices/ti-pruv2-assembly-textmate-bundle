@@ -5,9 +5,11 @@
 	<key>fileTypes</key>
 	<array>
 		<string>p</string>
-		<string>ph</string>
 		<string>P</string>
+		<string>ph</string>
 		<string>PH</string>
+		<string>hp</string>
+		<string>HP</string>
 	</array>
 	<key>name</key>
 	<string>TI PRUv2 Assembly</string>
